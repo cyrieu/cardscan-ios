@@ -1,0 +1,18 @@
+
+/* Class = "UIButton"; normalTitle = "Enter card manually"; ObjectID = "X5c-eH-4ZR"; */
+"X5c-eH-4ZR.normalTitle" = "Enter card manually";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "aTS-Jy-HLZ"; */
+"aTS-Jy-HLZ.normalTitle" = "Back";
+
+/* Class = "UILabel"; text = "Position your card in the frame so the card number is visible"; ObjectID = "iJh-NT-quU"; */
+"iJh-NT-quU.text" = "Position your card in the frame so the card number is visible";
+
+/* Class = "UILabel"; text = "4242 4242 4242 4242"; ObjectID = "mhR-St-yeE"; */
+"mhR-St-yeE.text" = "4242 4242 4242 4242";
+
+/* Class = "UILabel"; text = "05/22"; ObjectID = "sYa-ko-OnI"; */
+"sYa-ko-OnI.text" = "05/22";
+
+/* Class = "UILabel"; text = "Scan Card"; ObjectID = "vfu-3N-l48"; */
+"vfu-3N-l48.text" = "Scan Card";
